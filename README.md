@@ -5,7 +5,7 @@ Assignments:
 [Data Entry Analysis]()
 [Data Exploration]()
 
-![License](https://github.com/eeiler/ISQA8086/blob/master/LICENSE):
+[License](https://github.com/eeiler/ISQA8086/blob/master/LICENSE):
 MIT License
 Copyright (c) 2019 eeiler
 
