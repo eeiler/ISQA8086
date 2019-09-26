@@ -9,6 +9,9 @@
 7. I think the graphs being shown in the data files also goes with the no calculations rule. It clutters the pure data and could lead to bad assumptions.
 8. In "pond2010.xlsx", the data is strucutred differently than the other files. "Colony Diameter" is only a column name in it. The two "zoop" files got rid of "Species" column in favor of adding "Chippo ColonySize", "Cuni ColonySize", "Cuni #/L", and "Chippo #/L". Consistency would make the files more usable.
 
+### References
+Karl W. Broman & Kara H. Woo (2018) Data Organization in Spreadsheets,The American Statistician, 72:1, 2-10, DOI: 10.1080/00031305.2017.1375989
+
 ## New System Template
 |Date|Depth|Cuni #/L|Cuni ColonySize|Chippo #/L|Chippo ColonySize|Chla|Temp|
 |---|---|---|---|---|---|---|---|
@@ -25,6 +28,3 @@
 * Chla = Chlorophyll a
 * Temp units - ?
 * #\L = ?
-
-### References
-Karl W. Broman & Kara H. Woo (2018) Data Organization in Spreadsheets,The American Statistician, 72:1, 2-10, DOI: 10.1080/00031305.2017.1375989
