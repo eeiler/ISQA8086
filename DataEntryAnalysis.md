@@ -25,3 +25,6 @@
 * Chla = Chlorophyll a
 * Temp units - ?
 * #\L = ?
+
+### References
+Karl W. Broman & Kara H. Woo (2018) Data Organization in Spreadsheets,The American Statistician, 72:1, 2-10, DOI: 10.1080/00031305.2017.1375989
