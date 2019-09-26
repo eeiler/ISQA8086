@@ -2,7 +2,7 @@
 Special Topics in ISQA
 
 Assignments:
-1. [Data Entry Analysis]()
+1. [Data Entry Analysis](DataEntryAnalysis.md)
 2. [Data Exploration]()
 
 [License](https://github.com/eeiler/ISQA8086/blob/master/LICENSE):
