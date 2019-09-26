@@ -2,8 +2,8 @@
 Special Topics in ISQA
 
 Assignments:
-[Data Entry Analysis]()
-[Data Exploration]()
+1. [Data Entry Analysis]()
+2. [Data Exploration]()
 
 [License](https://github.com/eeiler/ISQA8086/blob/master/LICENSE):
 MIT License
