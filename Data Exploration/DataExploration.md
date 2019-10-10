@@ -36,10 +36,10 @@ This plot shows that for the plant species, Schizachyrium scoparium, there is a 
 #### Density Graph of the Plant Coverage from Schizachyrium Scoparium in Quadrant 1 
 ![](https://github.com/eeiler/ISQA8086/blob/master/Data%20Exploration/Density%20Plot%20of%20Schizachyrium%20Scoparium%20Plant%20Coverage%20Q1.png)
 ```
-ggplot(Schizachyrium_scoparium_SSQ1, aes(value)) 
-+ geom_density()
-+ ggtitle("Density of Plant Species Coverage")
-+ xlab("Coverage Value")
+ggplot(SSQ1, aes(value)) 
++ geom_density() 
++ ggtitle("Density of Schizachyrium Scoparium Plant Coverage in Quadrant 1") 
++ xlab("Coverage Value") 
 + ylab("Density")
 ```
 This plot shows that for the plant species, Schizachyrium scoparium, there is a greater number of low numbers than high numbers across all quadrants. It oddly shows that 2 and 4 rise while the rest fall. 
